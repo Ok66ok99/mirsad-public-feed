@@ -25,6 +25,48 @@
       "title": "طقم كنب مجلس 11 قطعة - العيدابي",
       "url": "https://haraj.com.sa/11192697459/",
       "price": ""
+    },
+    {
+      "title": "PC قيمنق ASUS i5-12400F RTX 4060 Ti 16GB رام 32GB",
+      "url": "https://haraj.com.sa/11192272293/",
+      "price": "3900",
+      "category": "PC",
+      "location": "جيزان",
+      "cpu": "Intel Core i5-12400F",
+      "gpu": "PNY RTX 4060 Ti 16GB",
+      "ram": "32GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "condition": "مستعمل - بحسب وصف البائع",
+      "status": "unverified",
+      "source": "haraj"
+    },
+    {
+      "title": "كمبيوتر ألعاب PC ASUS RTX 4060 رام 32GB",
+      "url": "https://haraj.com.sa/11193199728/",
+      "price": "3800",
+      "category": "PC",
+      "location": "جيزان",
+      "cpu": "Intel Core i5 (الموديل الدقيق غير واضح في الإعلان)",
+      "gpu": "NVIDIA RTX 4060",
+      "ram": "32GB",
+      "storage": "SSD (السعة غير مذكورة)",
+      "condition": "بحسب وصف البائع: نظيف",
+      "status": "unverified",
+      "source": "haraj"
+    },
+    {
+      "title": "PC قيمنق RTX 4060 i5-12400F مستعمل",
+      "url": "https://haraj.com.sa/11193228534/",
+      "price": "3599",
+      "category": "PC",
+      "location": "جيزان",
+      "cpu": "Intel Core i5-12400F",
+      "gpu": "GALAX RTX 4060 8GB",
+      "ram": "",
+      "storage": "1TB",
+      "condition": "مستعمل بحسب إعلان المتجر",
+      "status": "unverified",
+      "source": "haraj"
     }
   ]
 }
