@@ -102,6 +102,40 @@
       "source": "haraj",
       "status": "verified",
       "first_discovered_at": "2026-11-23T06:58:37+03:00"
+    },
+    {
+      "id": "11193286679",
+      "title": "آيباد الجيل التاسع مستعمل",
+      "url": "https://beta.haraj.com.sa/11193286679/%D8%B5%D8%A8%D9%8A%D8%A7/",
+      "price": "700",
+      "location": "صبيا",
+      "category": "الجوالات والأجهزة اللوحية",
+      "condition": "مستعمل ونظيف بحسب البائع",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T01:01:16+03:00"
+    },
+    {
+      "id": "11193274327",
+      "title": "كنب مع طاولات",
+      "url": "https://haraj.com.sa/11193274327/%D9%83%D9%86%D8%A8/",
+      "price": "2000",
+      "location": "أبو عريش",
+      "category": "الأثاث",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T01:01:16+03:00"
+    },
+    {
+      "id": "11193119718",
+      "title": "كنب للبيع مع السجاد",
+      "url": "https://haraj.com.sa/11193119718/%D9%83%D9%86%D8%A8_%D9%84%D9%84%D8%A8%D9%8A%D8%B9_%D9%85%D8%B9%D9%89_%D8%A7%D9%84%D8%B3%D8%AC%D8%A7%D8%AF/",
+      "price": "500",
+      "location": "أبو عريش",
+      "category": "الأثاث",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T01:01:16+03:00"
     }
   ]
 }
