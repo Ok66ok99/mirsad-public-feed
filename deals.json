@@ -67,6 +67,41 @@
       "condition": "مستعمل بحسب إعلان المتجر",
       "status": "unverified",
       "source": "haraj"
+    },
+    {
+      "id": "11193270679",
+      "title": "منشار بنزين ياباني Zenoah G3800",
+      "url": "https://haraj.com.sa/11193270679/",
+      "price": "1200",
+      "location": "صبيا",
+      "category": "الأدوات والمعدات",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-23T06:58:37+03:00"
+    },
+    {
+      "id": "11193268530",
+      "title": "ايباد آير الجيل الخامس",
+      "url": "https://haraj.com.sa/11193268530/",
+      "price": "1000",
+      "location": "صبيا",
+      "category": "الجوالات والأجهزة اللوحية",
+      "condition": "يحتاج بطارية، وكسر بالشاشة الخارجية بحسب البائع؛ الوصف يذكر حد 1200 ريال رغم ظهور 1000 ريال في خانة السعر",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-23T06:58:37+03:00"
+    },
+    {
+      "id": "11193267026",
+      "title": "ماكينة قهوة إسبريسو هوم إلك 2800 واط بالمطحنة",
+      "url": "https://haraj.com.sa/11193267026/",
+      "price": "",
+      "location": "صبيا",
+      "category": "الأجهزة المنزلية",
+      "condition": "شبه جديدة بحسب البائع، على السوم",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-23T06:58:37+03:00"
     }
   ]
 }
