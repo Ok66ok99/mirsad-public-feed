@@ -136,6 +136,68 @@
       "source": "haraj",
       "status": "verified",
       "first_discovered_at": "2026-11-24T01:01:16+03:00"
+    },
+    {
+      "id": "11193330730",
+      "title": "بي سي قيمنق pc",
+      "location": "العارضة",
+      "category": "PC",
+      "price": "",
+      "cpu": "Intel Core i7 الجيل 12 (الموديل غير محدد)",
+      "gpu": "RTX 4060 Ti 16GB",
+      "ram": "DDR5 قطعتان؛ إجمالي السعة غير واضح",
+      "storage": "SSD 1TB",
+      "url": "https://haraj.com.sa/11193330730/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T03:00:43+03:00"
+    },
+    {
+      "id": "11193337072",
+      "title": "غسالة توشيبا حوضين 10 ك",
+      "location": "أبو عريش",
+      "category": "الأجهزة المنزلية",
+      "price": "600",
+      "condition": "مستعملة نظيفة بحسب البائع",
+      "url": "https://haraj.com.sa/11193337072/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T03:00:43+03:00"
+    },
+    {
+      "id": "11193334818",
+      "title": "هواوي Pura 80 Ultra 512GB",
+      "location": "صامطة",
+      "category": "الجوالات والأجهزة اللوحية",
+      "price": "1900",
+      "condition": "مستعمل دون كرتون؛ البائع يذكر جازان أو أبها",
+      "url": "https://haraj.com.sa/11193334818/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T03:00:43+03:00"
+    },
+    {
+      "id": "11193338157",
+      "title": "شاشة ARZOPA A1S محمولة Full HD",
+      "location": "جيزان",
+      "category": "الإلكترونيات",
+      "price": "200",
+      "condition": "شبه جديدة بحسب البائع",
+      "url": "https://haraj.com.sa/11193338157/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T03:00:43+03:00"
+    },
+    {
+      "id": "11191693178",
+      "title": "اسكوتر كهربائي فوكسر VOXER",
+      "location": "الدرب",
+      "category": "السيارات وملحقاتها",
+      "price": "",
+      "url": "https://haraj.com.sa/11191693178/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T03:00:43+03:00"
     }
   ]
 }
