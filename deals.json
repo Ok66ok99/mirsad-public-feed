@@ -277,6 +277,66 @@
       "source": "haraj",
       "status": "verified",
       "first_discovered_at": "2026-11-24T09:02:59+03:00"
+    },
+    {
+      "id": "11193293596",
+      "title": "جوالات",
+      "location": "صبيا",
+      "category": "الجوالات والأجهزة اللوحية",
+      "price": "",
+      "condition": "مستعمل على السوم: iPhone 17 Pro Max 256GB وGalaxy Tab S9 Ultra وAirPods Pro 3 بحسب البائع",
+      "url": "https://beta.haraj.com.sa/11193293596/%D8%AC%D9%88%D8%A7%D9%84%D8%A7%D8%AA/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T13:00:00+03:00"
+    },
+    {
+      "id": "11193198034",
+      "title": "مكينه خياطه نظيفه عالشرط",
+      "location": "الدرب",
+      "category": "الأدوات والمعدات",
+      "price": "",
+      "condition": "جوكي، على السوم بحسب البائع",
+      "url": "https://haraj.com.sa/11193198034/%D9%85%D9%83%D9%8A%D9%86%D9%87_%D8%AE%D9%8A%D8%A7%D8%B7%D9%87_%D9%86%D8%B8%D9%8A%D9%81%D9%87_%D8%B9%D8%A7%D9%84%D8%B4%D8%B1%D8%B7/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T13:00:00+03:00"
+    },
+    {
+      "id": "11193198032",
+      "title": "دولاب ملابس استخدام خفيف عرضه 3 متر وارتفاعه 2 متر و30 سم",
+      "location": "الدرب",
+      "category": "الأثاث",
+      "price": "1600",
+      "condition": "عيوب بسيطة بحسب البائع",
+      "url": "https://haraj.com.sa/11193198032/%D8%AF%D9%88%D9%84%D8%A7%D8%A8_%D9%85%D9%84%D8%A7%D8%A8%D8%B3_%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_%D8%AE%D9%81%D9%8A%D9%81_%D8%B9%D8%B1%D8%B6%D9%87_3_%D9%85%D8%AA%D8%B1_%D9%88%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%D9%87_2_%D9%85%D8%AA%D8%B1_%D9%8830_%D8%B3%D9%85/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T13:00:00+03:00"
+    },
+    {
+      "id": "11193198048",
+      "title": "كيا ابتيما 2018 ممشى 210 كيلو حالة الموتر وكاله",
+      "location": "جيزان",
+      "category": "السيارات وملحقاتها",
+      "price": "45000",
+      "condition": "مستعملة، 210 آلاف كم بحسب الوصف",
+      "url": "https://haraj.com.sa/11193198048/%D9%83%D9%8A%D8%A7_%D8%A7%D8%A8%D8%AA%D9%8A%D9%85%D8%A7_2018_%D9%85%D9%85%D8%B4%D9%89_210_%D9%83%D9%8A%D9%84%D9%88_%D8%AD%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%AA%D8%B1_%D9%88%D9%83%D8%A7%D9%84%D9%87/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T13:00:00+03:00"
+    },
+    {
+      "id": "11193197807",
+      "title": "سوني 4",
+      "location": "الدرب",
+      "category": "الإلكترونيات",
+      "price": "300",
+      "condition": "يطفئ عند ارتفاع الحرارة وصوته عال بحسب البائع",
+      "url": "https://haraj.com.sa/11193197807/%D8%B3%D9%88%D9%86%D9%8A_4/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T13:00:00+03:00"
     }
   ]
 }
