@@ -198,6 +198,73 @@
       "source": "haraj",
       "status": "verified",
       "first_discovered_at": "2026-11-24T03:00:43+03:00"
+    },
+    {
+      "id": "11193342457",
+      "title": "ريد مجك 11 برو جوال العاب",
+      "price": "2700",
+      "location": "العيدابي",
+      "category": "الجوالات والأجهزة اللوحية",
+      "condition": "مستعمل 4 أشهر، 256GB و12GB RAM، البطارية 99% بحسب البائع",
+      "url": "https://haraj.com.sa/11193342457/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T07:00:42+03:00"
+    },
+    {
+      "id": "11193321973",
+      "title": "شاشة DELL",
+      "price": "100",
+      "location": "صبيا",
+      "category": "الإلكترونيات",
+      "url": "https://haraj.com.sa/11193321973/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T07:00:42+03:00"
+    },
+    {
+      "id": "11193221478",
+      "title": "PC gaming RTX 5060",
+      "price": "3500",
+      "location": "صامطة",
+      "category": "PC",
+      "cpu": "Intel Core i5-14400F",
+      "gpu": "NVIDIA GeForce RTX 5060",
+      "ram": "16GB DDR4",
+      "storage": "1TB SSD",
+      "condition": "ضمان سنتين بحسب البائع؛ حالة الاستخدام غير محددة",
+      "url": "https://haraj.com.sa/11193221478/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T07:00:42+03:00"
+    },
+    {
+      "id": "11193119798",
+      "title": "بي سي للبيع بدون ملحقات",
+      "price": "",
+      "location": "أحد المسارحة؛ الوصف يحدد صامطة إسكان الخارش",
+      "category": "PC",
+      "cpu": "Intel Core i5-10400",
+      "gpu": "RTX 2060 6GB",
+      "ram": "16GB",
+      "storage": "3TB إجمالي SSD وHDD بحسب البائع",
+      "condition": "مستعمل، على السوم",
+      "url": "https://haraj.com.sa/11193119798/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T07:00:42+03:00"
+    },
+    {
+      "id": "11192688140",
+      "title": "أثاث وأجهزة منزلية بأسعار منفصلة",
+      "price": "",
+      "location": "جيزان",
+      "category": "الأثاث",
+      "condition": "كنب 500، فرن 500، ثلاجة 300، مايكرويف 120، مبردة 150، موكيت 250، غسالة 500، غرفة نوم 700 ريال",
+      "url": "https://haraj.com.sa/11192688140/",
+      "source": "haraj",
+      "status": "verified",
+      "first_discovered_at": "2026-11-24T07:00:42+03:00"
     }
   ]
 }
